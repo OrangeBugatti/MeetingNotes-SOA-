@@ -1,4 +1,4 @@
-# ==New Rank structure within "Patched Members"==
+# New Rank structure within "Patched Members"
 	Patched I -- Beginner patched rank, Can participate in votes.
 	Patched II -- Can now apply to be a club officer
 	Patched III -- Can now have own team
