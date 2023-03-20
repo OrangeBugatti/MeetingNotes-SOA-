@@ -34,11 +34,11 @@ are doing coke you are required to be in the coke channel and so on. this is to 
 	Bryce to --> chaplain
 	Mexidankus to --> Vice president
 	Kobe to --> Treasurer
-Dirty Dan to --> Jr.Enforcer
-Dom to --> Secretary
+	Dirty Dan to --> Jr.Enforcer
+	Dom to --> Secretary
 
 --New Patched I--
-Eric
-Shawn
-Rob
-Tony
+	Eric
+	Shawn
+	Rob
+	Tony
