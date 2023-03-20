@@ -7,7 +7,7 @@
 Additional rank(s)
 
 	Jr.Enforcer
-======================================
+
 
 # --New ranks--
 -->Each rank will come with more things they are allowed for,Such as if theu are Patched III they are able to have thier own teams they are in charge 
