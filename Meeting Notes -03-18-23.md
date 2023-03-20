@@ -30,7 +30,7 @@ are doing coke you are required to be in the coke channel and so on. this is to 
 
 
 # --Promotions--
--->Officer promotions
+--> Officer promotions <--
 
 	Bryce to --> chaplain
 	Mexidankus to --> Vice president
@@ -38,7 +38,7 @@ are doing coke you are required to be in the coke channel and so on. this is to 
 	Dirty Dan to --> Jr.Enforcer
 	Dom to --> Secretary
 
--->New Patched I--
+--> New Patched I <--
 
 	 Eric
 	 Shawn
