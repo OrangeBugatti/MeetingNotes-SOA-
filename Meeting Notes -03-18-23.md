@@ -30,9 +30,10 @@ are doing coke you are required to be in the coke channel and so on. this is to 
 
 # --Promotions--
 -->Officer promotions
-Bryce to --> chaplain
-Mexidankus to --> Vice president
-Kobe to --> Treasurer
+
+	Bryce to --> chaplain
+	Mexidankus to --> Vice president
+	Kobe to --> Treasurer
 Dirty Dan to --> Jr.Enforcer
 Dom to --> Secretary
 
