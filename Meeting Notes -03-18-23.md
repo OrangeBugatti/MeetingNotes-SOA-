@@ -10,7 +10,7 @@ Additional rank(s)
 
 
 # --New ranks--
--->Each rank will come with more things they are allowed for,Such as if theu are Patched III they are able to have thier own teams they are in charge 
+*Each rank will come with more things they are allowed for,Such as if theu are Patched III they are able to have thier own teams they are in charge 
 to make packs for the club and orders
 -->Must Reach atleast Patched II before being able to apply for Officer positions in the club.
 -->A Senior Patched member is a trusted member who is held to high standards. this role is in charge of all Patched members. ensuring they are handling thier teams
