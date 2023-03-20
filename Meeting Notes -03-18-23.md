@@ -1,6 +1,4 @@
---Notes--
-Randy: 
-==New Rank structure within "Patched Members"==
+# ==New Rank structure within "Patched Members"==
 	Patched I -- Beginner patched rank, Can participate in votes.
 	Patched II -- Can now apply to be a club officer
 	Patched III -- Can now have own team
@@ -10,14 +8,14 @@ Additional rank(s)
 	Jr.Enforcer
 ======================================
 
---New ranks--
+# --New ranks--
 -->Each rank will come with more things they are allowed for,Such as if theu are Patched III they are able to have thier own teams they are in charge 
 to make packs for the club and orders
 -->Must Reach atleast Patched II before being able to apply for Officer positions in the club.
 -->A Senior Patched member is a trusted member who is held to high standards. this role is in charge of all Patched members. ensuring they are handling thier teams
 properly and to take complaints and guide prospects and patched members 
 		
---New Task Force--
+# --New Task Force--
 -->SGTAtArms will now have a specialized task force. The SGTAtArms will choose 4 people who they deem the best "Shooters" in SOA and they will be our 
 "Sliders". The club will stop sliding on other gangs unless special permission from SGTAtArms+.This doesnt mean you cant defend yourself if you are 
 Being shot at! The 4 that are on the task force will also be assigned to be the higherup personal bodyguards. these will be assigned to road captain+
@@ -30,7 +28,7 @@ be appealed once every 3 weeks. additionally, you must stay in the respective ch
 are doing coke you are required to be in the coke channel and so on. this is to help leviate confusion and help us communicate effeciently 
 
 
---Promotions--
+# --Promotions--
 -->Officer promotions
 Bryce to --> chaplain
 Mexidankus to --> Vice president
