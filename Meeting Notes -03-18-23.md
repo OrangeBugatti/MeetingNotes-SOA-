@@ -37,8 +37,8 @@ are doing coke you are required to be in the coke channel and so on. this is to 
 	Dirty Dan to --> Jr.Enforcer
 	Dom to --> Secretary
 
---New Patched I--
-	Eric
-	Shawn
-	Rob
-	Tony
+-->New Patched I--
+	 Eric
+	 Shawn
+	 Rob
+	 Tony
