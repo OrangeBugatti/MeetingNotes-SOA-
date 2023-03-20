@@ -5,6 +5,7 @@
 	Senior Patched -- Incharge of the patched members
 -----------------------------------------------------
 Additional rank(s)
+
 	Jr.Enforcer
 ======================================
 
